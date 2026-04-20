@@ -5,6 +5,8 @@ index.html
 payloads\elfldr.elf 
 payloads\ps5-hen.elf
 payloads\ftp1-15.elf
+payloads\BackPork0-1.elf
+payloads\shadowmount1-03.elf
 custom_host_stuff.js 
 exploit.js 
 int64.js 
