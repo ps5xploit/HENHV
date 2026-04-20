@@ -47,26 +47,7 @@ const payload_map = [
     //     version: "1.15",
     //     supportedFirmwares: ["1.", "2.", "3.", "4.", "5."]
     // },
-    // { // auto-loaded
-    //     displayTitle: "shadowmount1-03",
-    //     description: "shadowmount1-03",
-    //     fileName: "shadowmount1-03.elf",
-    //     author: "shadowmount",
-    //     projectSource: "shadowmount",
-    //     binarySource: "shadowmount",
-    //     version: "1.03",
-    //     supportedFirmwares: ["1.", "2.", "3.", "4."]
-    // },
-    // { // auto-loaded
-    //     displayTitle: "BackPork0-1",
-    //     description: "BackPork0-1",
-    //     fileName: "BackPork0-1.elf",
-    //     author: "BackPork",
-    //     projectSource: "BackPork",
-    //     binarySource: "BackPork",
-    //     version: "0.1",
-    //     supportedFirmwares: ["1.", "2.", "3.", "4."]
-    // },
+
     // {
     //     // https://github.com/Storm21CH/PS5_Browser_appCache_remove
     //     displayTitle: "Browser appcache remover",
